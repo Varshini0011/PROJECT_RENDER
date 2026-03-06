@@ -1,0 +1,1 @@
+web: java -jar target/project_render-0.0.1-SNAPSHOT.jar
